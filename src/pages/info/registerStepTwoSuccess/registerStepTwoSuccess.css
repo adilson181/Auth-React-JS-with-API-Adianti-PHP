@@ -1,0 +1,40 @@
+.Box-Success{
+    background-color: #fff;
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 100px 50px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 12px -2px rgba(0, 0, 0, 0.35);
+    text-align: center;
+}
+.Title-StepOne{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #7159C1;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.PStepOne{
+    color: rgb(58, 58, 58);
+    font-size: 1.5em;
+    font-weight: 100;
+    line-height: 0.9em;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Btn-Login{
+    text-decoration: none;
+    background-color: #00CC99;
+    padding: 10px 50px;
+    border-radius: 15px;
+    font-weight: bold;
+    color: #fff;
+    transition: all .3s;
+    
+}
+.Btn-Login:hover{
+    color: #fff;
+    background-color: #009c75;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,10 @@
+.App {
+    margin: 0 auto;
+    width: 480px;
+}
+.container{
+    max-width: 1400px;
+}
+.center{
+    text-align: center;
+}
